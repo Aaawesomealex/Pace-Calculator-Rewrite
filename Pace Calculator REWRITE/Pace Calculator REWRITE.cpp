@@ -46,10 +46,6 @@ int main()
         int firstNumber = eventInDecimalSeconds;
         double firstNumber = eventInDecimalSeconds - firstNumber;
 
-
-        double answer = (0.1243 * totalMileTimeInSeconds) / 60;
-        int wholeNumber = answer;
-        double whole
     }
 
 
